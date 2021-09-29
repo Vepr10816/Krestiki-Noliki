@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KrestikiNoliki</string>
+    <string name="welcome">welcome</string>
+    <string name="welcome2">welcome2</string>
+    <string name="Restart">Ещё раз</string>
+    <string name="TitleGame">Крестики||Нолики</string>
+    <string name="Hod">Ход:</string>
+</resources>
